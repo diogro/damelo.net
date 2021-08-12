@@ -1,6 +1,6 @@
 ---
 title: Selective surface plots
-summary: A full animal model implementation in Stan
+summary: Visualizing the effect of genetic correlations on evolution
 tags:
 - r package
 - methods
