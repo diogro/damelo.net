@@ -32,6 +32,6 @@ url_video: ""
 
 ---
 
-This a teaching and simulation tool that allows the simulation and visualization of the multivariate response to selection ([Lande, 1979](https://www.jstor.org/stable/2407630)) in random multi-peak selection surfaces. 
+This a teaching and simulation tool that allows the simulation and visualization of the multivariate response to selection trajectories ([Lande, 1979](https://www.jstor.org/stable/2407630)) in random multi-peak selection surfaces. 
 
 
