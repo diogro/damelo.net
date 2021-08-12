@@ -11,6 +11,11 @@ authors:
 - Maria Inés Oyarzabal
 - Gabriel Marroig
 
+# Author notes (optional)
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+
 date: "2017-10-01T00:00:00Z"
 doi: "10.1111/evo.13304"
 

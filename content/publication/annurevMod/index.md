@@ -10,6 +10,11 @@ authors:
 - James M. Cheverud
 - Gabriel Marroig
 
+# Author notes (optional)
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+
 date: "2016-09-07T00:00:00Z"
 doi: "10.1146/annurev-ecolsys-121415-032409"
 

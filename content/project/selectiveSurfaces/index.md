@@ -1,6 +1,6 @@
 ---
 title: Selective surface plots
-summary: Visualizing the effect of genetic correlations on evolution
+summary: Visualizing the effect of genetic correlations on the response to selection
 tags:
 - r package
 - methods
