@@ -7,9 +7,6 @@ title: "How Does Modularity in the Genotype–Phenotype Map Shape Development an
 authors:
 - admin
 
-
-Melo, Diogo. 2019. “How Does Modularity in the Genotype–Phenotype Map Shape Development and Evolution?” In Old Questions and Young Approaches to Animal Evolution, edited by José M. Martín-Durán and Bruno C. Vellutini, 237–49. Cham: Springer International Publishing.
-
 date: "2019-10-01T00:00:00Z"
 doi: "10.1007/978-3-030-18202-1_11"
 
