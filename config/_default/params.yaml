@@ -85,15 +85,15 @@ breadcrumb:
   page_types:
     book: true
 comments:
-  provider: ''
+  provider: 'disqus'
   commentable:
     post: true
-    book: true
-    project: true
-    publication: true
-    event: true
+    book: false
+    project: false
+    publication: false
+    event: false
   disqus:
-    shortname: ''
+    shortname: 'diogro'
     show_count: true
   commento:
     url: ''
