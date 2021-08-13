@@ -28,8 +28,8 @@ content:
     tag: ''
     category: ''
     publication_type: ''
-    author: 'admin'
-    exclude_featured: true
+    author: ''
+    exclude_featured: false
 design:
   # Choose a view for the listings:
   #   1 = List
