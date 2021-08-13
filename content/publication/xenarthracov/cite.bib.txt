@@ -1,0 +1,15 @@
+
+@ARTICLE{Hubbe2016-za,
+  title     = "{A case study of extant and extinct Xenarthra cranium covariance
+               structure: implications and applications to paleontology}",
+  author    = "Hubbe, Alex and Melo, Diogo and Marroig, Gabriel",
+  journal   = "Paleobiology",
+  publisher = "Cambridge University Press",
+  volume    =  42,
+  number    =  3,
+  pages     = "465--488",
+  month     =  aug,
+  year      =  2016,
+  issn      = "0094-8373, 1938-5331",
+  doi       = "10.1017/pab.2015.49"
+}
