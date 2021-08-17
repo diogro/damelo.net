@@ -65,7 +65,7 @@ docs_section_pager: false
 sharing: false
 copyright_license:
   enable: true
-  allow_derivatives: false
+  allow_derivatives: true
   share_alike: true
   allow_commercial: false
   notice: 'This work is licensed under CC BY-NC-SA 4.0'
