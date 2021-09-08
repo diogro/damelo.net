@@ -6,7 +6,7 @@ slug: b-matrix-wagner-1989
 categories:
 - papers
 - journal club
-- modularity
+- mutation-selection balance
 - development
 - quantitative genetics
 tags: []
