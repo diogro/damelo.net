@@ -47,4 +47,4 @@ The fixed B-matrix is based on the assumption that there is no segregating varia
 
 This B-matrix model has been used in several other manuscripts ([nemo](https://nemo2.sourceforge.io/) implements it directly), and I used an even simpler version in my masters dissertation. I used a binary version of the B-matrix, what we called a pleitropy matrix, which allowed me to add mutations that change the B-matrix. In our formulation[@Melo2015-of], the addition of segregating variation in the developmental matrix allows selection to alter the pleiotropic effects between traits in a way that increases evolvability. This is a topic I hope to return to at some point, and indeed have played with other versions of this model to answer questions regarding genetic architecture evolution during my PhD. 
 
-# Rerefences
+# References
