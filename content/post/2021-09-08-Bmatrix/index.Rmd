@@ -1,0 +1,48 @@
+---
+title: The B-matrix model of development - Wagner 1989
+author: ''
+date: '2021-09-08'
+slug: b-matrix-wagner-1989
+categories:
+- papers
+- journal club
+- modularity
+- development
+- quantitative genetics
+tags: []
+subtitle: ''
+summary: ''
+authors: [admin]
+lastmod: '2021-09-08T14:00:22-04:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+bibliography: [references.bib]
+csl: apa-numeric-superscript
+---
+
+I'm going to start posting some article comments in this space. The objective is to just get me reading and writing more, something the pandemic severely affected my habit of doing. The idea is to just start posting some small comments on classic or recent papers that I have been reading or that are in my notes folder. If somebody reads this and wants to chat please fell free to contact me. Thanks for indulging me!
+
+This post will cover a less well known 1989 paper[@Wagner1989-jg] by Günter Wagner, "Multivariate Mutation-Selection Balance with Constrained Pleiotropic Effects." As far as I can tell, this is the first appearance of the B-matrix model of development, which is just a linear approximation for a general _developmental function_ $f$. Assume we have a vector $(\mathbf{y} = \{y_1, \dots,y_n\})$ of genetic effects determined by $n$ loci which contribute to the phenotypic variation of $p$ phenotypes $(\mathbf{z} = \{z_1, \cdots, z_p\})$. The link between the genetic level and the phenotypic level is done by a developmental function, which outputs and individual's phenotype given it's genoptype:
+
+$$
+ \mathbf{z}=f(\mathbf{y})
+$$
+This function can be as non-linear and complicated as we want it to be, but it is informative to think about the case in which a linear approximation is sufficient, and the link between genotypic values and phenotypes can be written as:
+
+$$
+ \mathbf{z}\approx B\mathbf{y}
+$$
+
+where B is an $p\times n$ matrix that fully characterizes the (linear) development. This linear simplification allows us to obtain quantitative genetic quantities, like additive genetic variances and covariances very easily, and it is easy to understand how selection on the phenotypes will affect the genotypes. This passage in pg. 231 summarizes the advantages of the linear B-matrix model: 
+
+  "However, the main advantage of the B-matrix model is that it is easily generalized to any number of characters and to finite populations. The reason for this flexibility of the B-matrix model is the notation used, where the variation at a particular locus is primarily mapped on a one-dimensional underlying variable y. Hence, it is possible to derive the complete multivariate solution by solving n single-character problems, which are already well understood." 
+  
+The manuscript covers several possibilities for the distribution of alleles in the population under mutation-selection balance, including the usual House of Cards approximation[@Turelli1985-ne] and the continuum of alleles model[@Lande1980-kn]. One interesting result is that under this model the mean equilibrium fitness is independent of the developmental matrix, which kind of makes sense: if the population is at a fitness optima it doesn't really matter how the phenotypes are generated from the genetic variation. Of course this does not generalize to other stages of the adaptation process. These are all interesting results, but the thing that interests me in this model is the separation between genetic variation and development. 
+
+The fixed B-matrix is based on the assumption that there is no segregating variation in development, and the pleiotropic effects and epistatic interactions that determine which loci affects which trait are all fixed. The idea behind this is that most of the variation in adult traits is overlaid on a canvas provided by early development. The example Wagner gives is that "genes that contribute to the genetic variation of wing size are expressed as heritable variation in wing size only if the homeotic genes provided the anlage of wings during morphogenesis". In the fixed B-matrix model, _developmental genes_ set the stage, and _"polygenic loci"_ provide heritable variation. While this is a vary simplified formulation of the influence of development on quantitative variation, it is consistent with more modern ideas based on direct EvoDevo experimentation. For example, [this talk](https://www.youtube.com/watch?v=kwo9QnJfwn0) by Benedikt Hallgrimsson gets a fairly similar conceptual model, in which mutations percolate through development through fairly stable pathways, which results in a massive reduction in the possible dimensions of morphological variation. This is sometimes called a structuralist view of phenotypic variation, which I hope to write more about.
+
+This B-matrix model has been used in several other manuscripts, and I used an even simpler version in my masters dissertation, which allowed me to add the possibility of mutations that change the B-matrix. In our formulation[@Melo2015-of], we add segregating variation in the developmental matrix, and this selection to alter the pleiotropic effects between traits in a way that increases evolvability. This is a topic I hope to return to at some point, and indeed have played with other versions of this model to answer questions regarding genetic architecture evolution during my PhD. 
