@@ -2,7 +2,7 @@
 title: The B-matrix model of development
 author: ''
 date: '2021-09-08'
-slug: b-matrix-wagner-1989
+slug: b-matrix-wagner
 categories:
 - papers
 - journal club
