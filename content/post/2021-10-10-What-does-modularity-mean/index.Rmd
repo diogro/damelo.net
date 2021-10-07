@@ -1,0 +1,26 @@
+---
+title: What is modularity?
+author: ''
+date: '2021-10-06'
+slug: what-is-modularity
+categories:
+- papers
+- journal club
+- modularity
+- evolvability
+tags: []
+subtitle: ''
+summary: ''
+authors: [admin]
+lastmod: '2021-10-06T14:00:22-04:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: yes
+projects: []
+bibliography: [references.bib]
+csl: apa-numeric-superscript
+---
+
+Test new stuff
