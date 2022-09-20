@@ -1,5 +1,5 @@
 ---
-title: "A case study of extant and extinct Xenarthra cranium covariance structure: implications and applications to paleontology"
+title: "Morphological integration during postnatal ontogeny: implications for evolutionary biology"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -18,7 +18,7 @@ date: "2022-04-01T00:00:00Z"
 doi: "10.1101/2021.07.13.452198"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-09-19T00:00:00Z"
+publishDate: "2022-09-18T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
