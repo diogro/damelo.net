@@ -35,7 +35,7 @@ tags: [gene expression, phenotypic variation,  RNAseq, Gene Ontology, transcript
 featured: true
 
 url_pdf: 'publication/ExpressionVariance/Wolf_etal_2023.pdf'
-url_code: ''
+url_code: 'https://github.com/ayroles-lab/expressionVariance-code'
 url_dataset: ''
 url_poster: ''
 url_project: ''
