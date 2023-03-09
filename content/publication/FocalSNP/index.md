@@ -33,7 +33,7 @@ tags: [gene expression, phenotypic variation,  RNAseq, Gene Ontology, transcript
 featured: true
 
 url_pdf: 'publication/FocalSNP/Wolf_etal_2023.pdf'
-url_code: ''
+url_code: 'https://github.com/ayroles-lab/SNPvalidation'
 url_dataset: ''
 url_poster: ''
 url_project: ''
