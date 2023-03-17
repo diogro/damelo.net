@@ -11,8 +11,8 @@ authors:
 - Julien F. Ayroles
 - Luisa F. Pallares
 
-date: "2023-03-13T00:00:00Z"
-doi: ""
+date: "2023-03-09T00:00:00Z"
+doi: "10.1101/2023.03.09.531909"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-03-13T00:00:00Z"
@@ -38,7 +38,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://www.biorxiv.org/content/10.1101/2023.03.09.531909v1'
 url_video: ''
 
 # Featured image
