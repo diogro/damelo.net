@@ -10,7 +10,7 @@ authors:
 - admin
 - Scott Wolf
 - Evan M Cofer
-- Varada Varada
+- Varada Abhyankar
 - Julie Peng
 - Julien F. Ayroles
 
