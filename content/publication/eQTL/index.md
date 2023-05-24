@@ -15,7 +15,7 @@ authors:
 - Julien F. Ayroles
 
 date: "2023-05-22T00:00:00Z"
-doi: "10.1101/2023.05.20.541576v2"
+doi: "10.1101/2023.05.20.541576"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-05-22T00:00:00Z"
