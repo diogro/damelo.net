@@ -15,7 +15,7 @@ authors:
 - Julien F. Ayroles
 
 date: "2023-05-22T00:00:00Z"
-doi: "10.1101/2023.05.20.541576"
+doi: "10.1101/2023.05.20.541576v2"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-05-22T00:00:00Z"
@@ -42,7 +42,7 @@ url_dataset: 'https://drosophilaeqtl.org'
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://www.biorxiv.org/content/10.1101/2023.05.20.541576v2'
 url_video: ''
 
 # Featured image
