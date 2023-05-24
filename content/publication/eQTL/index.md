@@ -42,7 +42,7 @@ url_dataset: 'https://drosophilaeqtl.org'
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://www.biorxiv.org/content/10.1101/2023.05.20.541576v2'
+url_source: ''
 url_video: ''
 
 # Featured image
