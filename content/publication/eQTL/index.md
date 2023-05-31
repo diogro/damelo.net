@@ -1,5 +1,5 @@
 ---
-title: "Saturating the eQTL map in Drosophila melanogaster genome-wide patterns of cis and trans regulation of transcriptional variation in outbred populations"
+title: "Saturating the eQTL map in Drosophila melanogaster: genome-wide patterns of cis and trans regulation of transcriptional variation in outbred populations"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
