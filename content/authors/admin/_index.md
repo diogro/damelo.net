@@ -46,7 +46,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:damelo@ib.usp.br'
-- icon: bluesky
+- icon: twitter
   icon_pack: fab
   link: https://bsky.app/profile/diogromelo.bsky.social
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
