@@ -38,7 +38,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://www.sciencedirect.com/science/article/pii/S0168952524002300'
+url_source: ''
 url_video: ''
 
 # Featured image
