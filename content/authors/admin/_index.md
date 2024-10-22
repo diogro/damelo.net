@@ -47,7 +47,7 @@ social:
   icon_pack: fas
   link: 'mailto:damelo@ib.usp.br'
 - icon: bluesky
-  icon_pack: fas
+  icon_pack: brands
   link: https://bsky.app/profile/diogromelo.bsky.social
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
