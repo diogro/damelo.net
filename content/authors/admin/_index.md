@@ -6,15 +6,15 @@ title: Diogo Melo
 superuser: true
 
 # Role/position/tagline
-role: Presidential Postdoctoral Fellow
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Princeton University
-  url: https://ayroleslab.princeton.edu/
+- name: Universidade de São Paulo
+  url: https://www.ib.usp.br/genetica-e-biologia-evolutiva/info/corpo-docente/656-diogo-amaral-r-melo.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include the evolution of genetic architeture and computational biology.
+bio: Head of the Systems Biology, Genetics and Evolution Lab (LBSGE [ləbɛɡ]) at the University of São Paulo.
 
 # Interests to show in About widget
 interests:
@@ -60,7 +60,7 @@ social:
 #   link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
@@ -73,6 +73,6 @@ email: ""
 highlight_name: false
 ---
 
-My main research interest is understanding the evolution of genetic architecture, especially how genetic architecture can restrict and alter evolutionary trajectories, and how selection can shape these restrictions. Most of my work is computational, but I have also worked with data from large quantitative genetics experiments, trying to link our theoretical knowledge on genetic effects to what we see in real populations. I've persued these interests during my undergraduate degree in biology from the University of São Paulo, where I also obtained a master’s degree (2012) and a Ph.D. (2019) in genetics and evolutionary biology, working with Prof. Gabriel Marroig and Prof. Jason Wolf at the University of Bath. In 2020 I joined Prof. Julien Ayroles's lab at Princeton as a Princeton Presidential Postdoctoral Fellow.
+My main research interest is understanding the evolution of genetic architecture, especially how genetic architecture can restrict and alter evolutionary trajectories, and how selection can shape these restrictions. Most of my work is computational, but I have also worked with data from large quantitative genetics experiments, trying to link our theoretical knowledge on genetic effects to what we see in real populations. I've persued these interests during my undergraduate degree in biology from the University of São Paulo, where I also obtained a master’s degree (2012) and a Ph.D. (2019) in genetics and evolutionary biology, working with Prof. Gabriel Marroig and Prof. Jason Wolf at the University of Bath. From 2020 to 2024 I worked in Prof. Julien Ayroles's lab at Princeton as a Princeton Presidential Postdoctoral Fellow. I am now an Assistant Professor at the University of São Paulo, where I head the Systems Biology, Genetics and Evolution Lab (LBSGE [ləbɛɡ]).
 
 I'm also a decent double bass and electric bass player, and I've been playing jazz and Brazilian music for 20 years.  I even built my own electric bass from scratch. My other hobby is taking pictures, specialy candid portraits and travel photos. I have a kept a [flickr page](https://www.flickr.com/diogro/albums) for a long time, where I post photos taken with the many digital and analog cameras I have used over the years.
