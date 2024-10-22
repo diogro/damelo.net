@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:damelo@princeton.edu'
+  link: 'mailto:damelo@ib.usp.br'
 - icon: "custom/bluesky"
   link: https://bsky.app/profile/diogromelo.bsky.social
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
