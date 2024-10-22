@@ -46,18 +46,14 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:damelo@princeton.edu'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/diogro
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: "custom/bluesky"
+  link: https://bsky.app/profile/diogromelo.bsky.social
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=ymsxHCMAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/diogro
-# - icon: linkedin
-#   icon_pack: fab
-#   link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
