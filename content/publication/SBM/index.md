@@ -2,7 +2,7 @@
 title: "Reassessing the modularity of gene co-expression networks using the Stochastic Block Model"
 
 # Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
 
@@ -32,7 +32,7 @@ tags: [drosophila, gene expression, SBM, modularity, gene co-expression]
 # Display this page in the Featured widget?
 featured: true
 
-url_pdf: 'publication/SBM/SBM_2023-05-31.pdf'
+url_pdf: 'publication/SBM/SBM.pdf'
 url_code: 'https://github.com/ayroles-lab/SBM-tools'
 url_dataset: 'https://drosophilaeqtl.org'
 url_poster: ''
@@ -42,7 +42,7 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: ''
   focal_point: ""
