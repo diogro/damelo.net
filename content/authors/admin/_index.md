@@ -48,7 +48,7 @@ social:
   link: 'mailto:damelo@ib.usp.br'
 - icon: twitter
   icon_pack: fab
-  link: https://bsky.app/profile/diogromelo.bsky.social
+  link: https://bsky.app/profile/damelo.net
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.com/citations?user=ymsxHCMAAAAJ&hl=en
