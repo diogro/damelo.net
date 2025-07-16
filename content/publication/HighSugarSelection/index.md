@@ -6,8 +6,6 @@ title: "Reassessing the modularity of gene co-expression networks using the Stoc
 # and it will be replaced with their full name and linked to their profile.
 authors:
 
-Simon K. G. Forsberg, Diogo Melo, Scott W. Wolf, Jennifer K. Grenier https://orcid.org/0000-0002-0928-7971, Minjia Tang, Lucas P. Henry https://orcid.org/0000-0002-3130-4643, Luisa F. Pallares https://orcid.org/0000-0001-6547-1901, Andrew G. Clark https://orcid.org/0000-0001-7159-8511 ac347@cornell.edu, and Julien F. Ayroles 
-
 - Simon K. G. Forsberg
 - admin
 - Scott W. Wolf
