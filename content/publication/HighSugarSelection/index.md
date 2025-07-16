@@ -1,5 +1,5 @@
 ---
-title: "Reassessing the modularity of gene co-expression networks using the Stochastic Block Model"
+title: "Longitudinal sequencing reveals polygenic and epistatic nature of genomic response to selection"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
