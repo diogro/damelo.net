@@ -8,10 +8,10 @@ authors:
 - admin
 
 date: "2025-07-28T00:00:00Z"
-doi: "10.1016/B978-0-12-800049-6.00043-3"
+doi: "10.1016/B978-0-443-15750-9.00143-9"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-07-1T00:00:00Z"
+publishDate: "2025-07-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
