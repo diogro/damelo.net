@@ -1,5 +1,5 @@
 ---
-title: "Queen loss unmasks cryptic worker influence and decentralizes the bumble bee social network"
+title: "Bumble bee workers adopt new roles and reshape social networks after queen loss"
 
 # authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -15,28 +15,28 @@ authors:
 - Ian M. Traniello
 - Sarah D. Kocher
 
-date: "2025-01-07T00:00:00Z"
-doi: "10.1101/2025.01.07.630106"
+date: "2026-09-03T00:00:00Z"
+doi: "10.1038/s42003-026-10795-8"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-01-07T00:00:00Z"
+publishDate: "2026-09-03T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: bioRxiv
+publication: Communications Biology
 
-abstract:  "Bumble bees (Bombus impatiens) undergo a radical transformation in social dynamics as a natural part of their colony life cycle. Early in the season, bumble bee societies are eusocial and contain a reproductive queen and functionally sterile workers. As the colony grows, the colony transitions to a competition phase in which reproductive division of labor breaks down and some workers activate their ovaries and lay unfertilized, male-destined eggs. This transition represents a key shift in colony organization, but its underlying social dynamics, including the relationship between individual- and colony-level behavior, are poorly understood. Using multianimal pose tracking to quantify social interactivity and related movement dynamics, we compared queenright and queenless colonies that capture these distinct cooperative and competitive phases of the colony life cycle. Queenright colonies displayed highly centralized social networks in which the queen received, rather than initiated, the majority of social interactions. In contrast, queenless colonies displayed higher worker interaction rates, and a subset of workers exhibited queen-like social behaviors and higher reproductive potential relative to nestmates. The unmasking of these “influencers” in a queenless, competitive context transformed the colony’s social network from a centralized to distributed social organization with higher overall network efficiency. Thus, the bumble bee queen masks a hidden relationship between worker influence and reproductive potential that underlies their latent social flexibility. In the absence of a queen, the colony social structure is transformed, revealing that significant modifications in information transfer can accompany shifts in colony social organization and highlighting a novel layer of resilience in this social system."
+abstract: "Dominant individuals often structure group organization, but less is known about how social networks reorganize in their absence and how variation among subordinates contributes to collective outcomes. Bumble bees (Bombus impatiens) provide an ideal system to study these dynamics: queens typically monopolize reproduction, but in some contexts, individual workers can adopt queen-like social roles. Using multi-animal pose tracking, we compare matched queenright and queenless partitions from the same source colonies, quantifying over 80 million social interactions. Queenless colonies exhibit increased behavioral variation and contain a subset of highly influential workers with elevated movement, spatial centrality, and reproductive activity that is absent in queenright conditions. The emergence of these individuals coincides with a shift from centralized to decentralized, efficient network architectures. These results demonstrate that queen presence constrains latent worker variation, revealing how individual behavioral differences can scale up to reshape collective social organization in hierarchical societies."
 tags: [social insects, Bombus impatiens, social networks, ethology, automated tracking]
 
 # Display this page in the Featured widget?
 featured: true
 
-url_pdf: 'publication/QueenLoss/2025.01.07.630106.full.pdf'
+url_pdf: 'publication/QueenLoss/Ruttenberg-et-al-2026.pdf'
 url_code: 'https://github.com/kocherlab/queenright-queenless-analysis'
 url_dataset: ''
 url_poster: ''
@@ -53,4 +53,3 @@ image:
   preview_only: false
 
 ---
-
