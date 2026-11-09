@@ -1,44 +1,40 @@
-<p align="center"><a href="https://wowchemy.com/templates/" target="_blank" rel="noopener"><img src="https://wowchemy.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Template for Wowchemy Website Builder"></a></p>
+# damelo.net
 
-# Academic Template for [Hugo](https://github.com/gohugoio/hugo)
+The source for Diogo Melo's academic website, published at [damelo.net](https://damelo.net/). The site is built with Hugo and the Wowchemy v5 modules declared in `go.mod`.
 
-The Hugo **Academic Resumé Template** empowers you to create your job-winning online resumé and showcase your academic publications.
+## Website content
 
-[Check out the latest demo](https://academic-demo.netlify.app/) of what you'll get in less than 10 minutes, or [view the showcase](https://wowchemy.com/user-stories/).
+The homepage is assembled from widgets configured in `content/home/`. The sections of interest are:
 
-[**Wowchemy**](https://wowchemy.com) makes it easy to create a beautiful website for free. Edit your site in Markdown, Jupyter, or RStudio (via Blogdown), generate it with Hugo, and deploy with GitHub or Netlify. Customize anything on your site with widgets, themes, and language packs.
+| Homepage section | Content directory | Homepage configuration |
+| --- | --- | --- |
+| Posts | `content/post/` | `content/home/posts.md` |
+| Code | `content/project/` | `content/home/code.md` |
+| Publications | `content/publication/` | `content/home/publications.md` |
 
-- 👉 [**Get Started**](https://wowchemy.com/templates/)
-- 📚 [View the **documentation**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/guide/update/) and [Release Notes](https://wowchemy.com/updates/)
+The homepage currently lists up to five posts and five publications, ordered by descending date. The Code section is a portfolio of project pages.
 
-## Crowd-funded open-source software
+### Posts
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+Add or update a post in its own directory under `content/post/`. Existing directory names commonly start with a date, followed by a topic. Post metadata such as the title, date, slug, categories, and author is stored in the document's YAML front matter.
 
-### [❤️ Click here to unlock rewards with sponsorship](https://wowchemy.com/plans/)
+Some posts use citations with a `references.bib` bibliography and a CSL style file. Keep those files with the post when editing its citations. Some older posts have both an R Markdown source (`index.Rmd` or `index.Rmarkdown`) and a rendered `index.html`. Hugo ignores R Markdown files as configured in `config.yaml`, so changes to an R Markdown source must be rendered to HTML to appear on the site.
 
-## Ecosystem
+### Code
 
-* **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
+Each item in the Code portfolio is a project page under `content/project/<name>/`, usually defined in `index.md`. Add a new project by creating a directory and page there. Follow the neighboring pages for front matter, including a title, short summary, tags, date, and relevant links such as `url_code`; add a `featured` image when useful.
 
-[![Screenshot](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/academic.png)](https://wowchemy.com)
+### Publications
 
-## Demo image credits
+Each publication has a page under `content/publication/<name>/`, usually `index.md`. Its front matter contains the title, authors, date, publication venue, DOI, abstract, and publication type. Add supporting files such as a PDF, `cite.bib`, and a `featured` image in the same directory, and link to them using the conventions in existing records.
 
-- [Open book](https://unsplash.com/photos/J4kK8b9Fgj8)
-- [Course](https://unsplash.com/photos/JKUTrJ4vK00)
+## Preview and build
 
-## Latest news
-<!--START_SECTION:news-->
-* [Hugo vs Quarto: Which One is Better for 2023?](https:&#x2F;&#x2F;hugoblox.com&#x2F;blog&#x2F;hugo-vs-quarto&#x2F;)
-* [Easily make an academic CV website to get more cites and grow your audience 🚀](https:&#x2F;&#x2F;hugoblox.com&#x2F;blog&#x2F;easily-make-academic-website&#x2F;)
-* [What&#39;s new in v5.2?](https:&#x2F;&#x2F;hugoblox.com&#x2F;blog&#x2F;whats-new-in-v5.2&#x2F;)
-* [What&#39;s new in v5.1?](https:&#x2F;&#x2F;hugoblox.com&#x2F;blog&#x2F;whats-new-in-v5.1&#x2F;)
-* [Version 5.0 (February 2021)](https:&#x2F;&#x2F;hugoblox.com&#x2F;blog&#x2F;version-5.0-february-2021&#x2F;)
-<!--END_SECTION:news-->
+The Netlify build configuration pins Hugo to version `0.87.0`. With that version available, run these commands from the repository root:
 
-[![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/starter-academic/readme?pixel)](https://github.com/igrigorik/ga-beacon)
+```sh
+hugo server
+hugo --gc --minify
+```
+
+The first command serves a local preview; the second runs a production-style build. Netlify's configured build command is `hugo --gc --minify -b $URL`; see `netlify.toml` for deployment settings.
